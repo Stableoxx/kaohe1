@@ -1,0 +1,16 @@
+.product-list {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+}
+.item-list:first-child{
+    color: coral;
+}
+.item-list {
+    padding: 10px 8px;
+    text-align: left;
+    font-size: 14px;
+}
+.item-list:hover{
+    color: coral;
+}

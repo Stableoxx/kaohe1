@@ -1,0 +1,44 @@
+/* .headTotal{
+    border: 1px solid greenyellow;
+    box-sizing: border-box;
+    padding: 4vh 10vw;
+}
+.ItemHead{
+    width:80vw ;
+    border: 1px solid red;
+}
+
+.ItemCount{
+    font-size: 12px;
+    color: black;
+}
+
+.itemCon{
+    box-sizing: border-box;
+    width: 80vw;
+    border: 1px solid gold;
+    margin: 5vh 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.itemIndex{
+   width: 80vw;
+   margin: 2vh 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center
+}
+.imgIndex{
+    width:20vw;
+    border: 1px solid red;
+    height: 20vh;
+}
+.conInex{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+} */

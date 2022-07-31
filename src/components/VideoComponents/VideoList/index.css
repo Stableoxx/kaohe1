@@ -1,0 +1,36 @@
+.videoListBox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1000px;
+    background-color: #fff;
+    padding: 20px 0;
+}
+.video-list{
+    width: 33.3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.videoConten{
+    width: 300px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.itemFoote{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.itemIcon{
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+.page{
+    width: 700px;
+    margin: 20px 20px 0 700px;
+    display: flex;
+}

@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.imgStyle {
+    width: 200px;
+    height: 30px;
+}
+
+.menu-item {
+    font-size: 14px;
+}
+
+.menu-item:hover {
+    color: #ff933b;
+
+}

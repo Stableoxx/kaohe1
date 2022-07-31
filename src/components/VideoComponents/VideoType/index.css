@@ -1,0 +1,22 @@
+.vedio-type{
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    background-color: #fff;
+}
+
+.vedio-type-list{
+    width: 100px;
+    font-size: 14px;
+    padding: 10px 8px;
+    
+}
+
+.vedio-type-list:hover{
+    color: coral;
+}
+
+.vedio-type-list:nth-child(2){
+    color: coral;
+    background-color: blanchedalmond;
+}
